@@ -1,12 +1,275 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project-Source\\MAUI\\MauiCRUD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\viewmodels\\carlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\viewmodels\\carlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\viewmodels\\cardetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\viewmodels\\cardetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\views\\cardetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\views\\cardetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\views\\cardetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\views\\cardetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|d:\\project-source\\maui\\mauicrud\\mauicrud\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6845C32-A869-4FF3-8487-7C2D7CEAA70A}|MauiCRUD\\MauiCRUD.csproj|solutionrelative:mauicrud\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiCRUD\\AppShell.xaml",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\AppShell.xaml",
+              "RelativeToolTip": "MauiCRUD\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T15:26:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\App.xaml",
+              "RelativeDocumentMoniker": "MauiCRUD\\App.xaml",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\App.xaml",
+              "RelativeToolTip": "MauiCRUD\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T15:26:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiCRUD\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:40:44.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiCRUD\\MainPage.xaml",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\MainPage.xaml",
+              "RelativeToolTip": "MauiCRUD\\MainPage.xaml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCQAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T08:54:38.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarListViewModel.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\ViewModels\\CarListViewModel.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\ViewModels\\CarListViewModel.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\ViewModels\\CarListViewModel.cs",
+              "RelativeToolTip": "MauiCRUD\\ViewModels\\CarListViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:55:06.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\ViewModels\\CarDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\ViewModels\\CarDetailsViewModel.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\ViewModels\\CarDetailsViewModel.cs",
+              "RelativeToolTip": "MauiCRUD\\ViewModels\\CarDetailsViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:29:31.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarDetailsPage.xaml.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Views\\CarDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\Views\\CarDetailsPage.xaml.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Views\\CarDetailsPage.xaml.cs",
+              "RelativeToolTip": "MauiCRUD\\Views\\CarDetailsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:35:43.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\Services\\CarService.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Services\\CarService.cs",
+              "RelativeToolTip": "MauiCRUD\\Services\\CarService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA9wCkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:23:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDetailsPage.xaml",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Views\\CarDetailsPage.xaml",
+              "RelativeDocumentMoniker": "MauiCRUD\\Views\\CarDetailsPage.xaml",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Views\\CarDetailsPage.xaml",
+              "RelativeToolTip": "MauiCRUD\\Views\\CarDetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T11:35:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\MauiProgram.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\MauiProgram.cs",
+              "RelativeToolTip": "MauiCRUD\\MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:52:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\App.xaml.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\App.xaml.cs",
+              "RelativeToolTip": "MauiCRUD\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:55:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\Models\\Car.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Models\\Car.cs",
+              "RelativeToolTip": "MauiCRUD\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:21:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiCRUD\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:50:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "MauiCRUD\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:54:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MauiCRUD\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Project-Source\\MAUI\\MauiCRUD\\MauiCRUD\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MauiCRUD\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:55:45.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

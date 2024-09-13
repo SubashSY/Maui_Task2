@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiCRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+acbbe696824ac1ec564d435e13272446a0f6693e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0186b76b7b2bbfacc0a38663f41ef5b3f7c9a82b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiCRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiCRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

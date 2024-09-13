@@ -1,4 +1,7 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using MauiCRUD.Services;
+using MauiCRUD.ViewModels;
+using MauiCRUD.Views;
+using Microsoft.Extensions.Logging;
 
 namespace MauiCRUD
 {
@@ -15,9 +18,14 @@ namespace MauiCRUD
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
-#if DEBUG
-    		builder.Logging.AddDebug();
-#endif
+            string dbPath = Path.Combine(FileSystem.AppDataDirectory, "cars.db3");
+
+            builder.Services.AddSingleton<CarService>(s => ActivatorUtilities.CreateInstance<CarService>(s, dbPath));
+
+            builder.Services.AddSingleton<CarListViewModel>();
+            builder.Services.AddTransient<CarDetailsViewModel>();
+            builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddTransient<CarDetailsPage>();
 
             return builder.Build();
         }
